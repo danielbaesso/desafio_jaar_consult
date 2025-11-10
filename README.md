@@ -14,7 +14,7 @@
 ![tela (11)_page-0001](https://github.com/user-attachments/assets/13d67abc-4cd1-4ccb-a735-91e9800dc2dd)
 
 # Gabarito do Front-end 3
-![tela (14)_page-0001](https://github.com/user-attachments/assets/e8e51a12-7348-4f2b-a24a-c1fa3775e95f)
+![tela (15)_page-0001](https://github.com/user-attachments/assets/dc225ea8-9699-4f32-bfe9-55039119caa8)
 
 
 # Resolução da Questão 1
@@ -42,7 +42,7 @@
 ![tela (13)_page-0001](https://github.com/user-attachments/assets/596ce614-de6b-4c81-ab40-736718f34f75)
 
 # Front-end 2
-![tela (15)_page-0001](https://github.com/user-attachments/assets/dc225ea8-9699-4f32-bfe9-55039119caa8)
+![tela (14)_page-0001](https://github.com/user-attachments/assets/e8e51a12-7348-4f2b-a24a-c1fa3775e95f)
 
 # Front-end 3
 ![tela (16)_page-0001](https://github.com/user-attachments/assets/2c9c0ce0-9216-4c9d-8cae-6deb897a32f8)
